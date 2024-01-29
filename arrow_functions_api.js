@@ -1,4 +1,3 @@
-// Array to store users
 const users = [];
 
 // Function to format responses and validate scenarios
